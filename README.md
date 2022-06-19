@@ -3,4 +3,4 @@ En este repositorio se encuentran todos los códigos de Maple creados que han si
 
 Los programas ''Estudio en los extremos (Events Horizon/Infinity)'' se han utilizado para fijar los coeficientes de los polinomios A(r) y B(r) en r=2M y r tendiendo a infinito respectivamente.
 
-Los programas ''Modo cuasinormal método numérico (polar/axial)'' se han utilizado para obtener numéricamente el valor del modo cuasinormal fundamental (l=2) y M arbitraria.
+Los programas ''Modo cuasinormal método numérico (polar/axial)'' se han utilizado para obtener numéricamente el valor del modo cuasinormal fundamental (l=2) y M arbitraria para el potencial polar y el axial.
